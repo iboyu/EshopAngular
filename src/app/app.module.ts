@@ -12,7 +12,7 @@ import { ProductListComponent } from './Public/product-list.component';
 import { ProductDetailsComponent } from './Public/product-details.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { OrdersComponent } from './Public/orders.component';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, NgForm } from '@angular/forms';
 
 @NgModule({
   declarations: [
